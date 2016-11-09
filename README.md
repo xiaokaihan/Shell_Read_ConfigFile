@@ -1,0 +1,2 @@
+# Shell_Read_ConfigFile
+shell读取配置文件的几种方法总结
